@@ -1,2 +1,2 @@
-# HashKart App via flask and postman
+# HashKart Online Shopping App via flask and postman
 
